@@ -4,6 +4,7 @@
 
 ## Using this theme
 ![Screenshot of GitHub Pages site without header](https://i.imgur.com/WKuJpwJ.png)
+
 -------
 Huge thanks to [@nickcannariato](https://github.community/u/nickcannariato) for [your post](https://github.community/t/remove-heading/10323/2) in the GitHub Support Community!
 
