@@ -9,3 +9,5 @@
 Huge thanks to [@nickcannariato](https://github.community/u/nickcannariato) for [your post](https://github.community/t/remove-heading/10323/2) in the GitHub Support Community!
 
 [![Screenshot of the post](https://i.imgur.com/PhLrl2n.png)](https://github.community/t/remove-heading/10323/2)
+
+You can find the original theme [here](https://github.com/pages-themes/primer).
